@@ -1,0 +1,24 @@
+{
+  "name": "kalat-workflow-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomas-gleizes/react-dialog-promise"
+  },
+  "homepage": "https://github.com/thomas-gleizes/react-dialog-promise#readme",
+  "bugs": {
+    "url": "https://github.com/thomas-gleizes/react-dialog-promise/issues"
+  },
+  "scripts": {
+    "build": "cd packages/core && pnpm build",
+    "exemple:simple": "cd examples/simple pnpm dev"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "prettier": "^2.8.7"
+  }
+}
