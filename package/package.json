@@ -1,8 +1,8 @@
 {
   "author": "thomas-gleizes",
-  "name": "react-dialog-promise",
+  "name": "kalat-workflow-test",
   "description": "A simple and typesafe React dialog system that returns a promise",
-  "version": "0.4.1",
+  "version": "0.0.1",
   "license": "MIT",
   "keywords": [
     "react",
@@ -14,11 +14,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomas-gleizes/react-dialog-promise"
+    "url": "https://github.com/thomas-gleizes/workflow-test"
   },
-  "homepage": "https://github.com/thomas-gleizes/react-dialog-promise#readme",
+  "homepage": "https://github.com/thomas-gleizes/workflow-test#readme",
   "bugs": {
-    "url": "https://github.com/thomas-gleizes/react-dialog-promise/issues"
+    "url": "https://github.com/thomas-gleizes/workflow-test/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
